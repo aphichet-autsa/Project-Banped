@@ -23,7 +23,7 @@
 ## เว็บไซต์ครัวบ้านเป็ด
 
 **หน้าแรก (Home)**
-
+![Image](https://github.com/user-attachments/assets/535aa291-5b8b-4180-8935-80f978ef3b96)
  **หน้าร้านค้า (Shop)**
 
 **หน้าเกี่ยวกับ** **(About)**
